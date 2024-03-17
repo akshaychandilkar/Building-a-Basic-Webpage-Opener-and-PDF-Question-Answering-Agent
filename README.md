@@ -1,4 +1,4 @@
-## Task: AI Engineer Intern: Building a Basic Webpage Opener and PDF Question Answering Agent ##
+## Task: Building a Basic Webpage Opener and PDF Question Answering Agent ##
 
 # The purpose of this Python program is to create a PDF Question Answering (QA) agent with the following functionalities:
 # Opening and Closing Webpages: It can open a webpage in the default browser using platform-specific commands ('open for macOS and ‘start’ for Windows') and close the webpage by simulating actions such as keystrokes or using the ‘ taskkill’ command.
